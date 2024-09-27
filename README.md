@@ -14,7 +14,7 @@
 
 # index7 = Introdução a estrutura condicionais.
 
-# index8 = Switch-case.
+# index8 = Exemplo de switch case.
 
 # index9 = Estrutura de repetição while e for.
 
