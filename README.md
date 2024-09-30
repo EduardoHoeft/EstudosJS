@@ -19,3 +19,5 @@
 # index9 = Estrutura de repetição while e for.
 
 # index10 = Exemplo de Callback, chamar uma função dentro de outra função.
+
+# index11 = Exemplo de Callback, com função anônima.
