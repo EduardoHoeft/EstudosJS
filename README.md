@@ -14,10 +14,13 @@
 
 # index7 = Introdução a estrutura condicionais.
 
-# index8 = Switch - Case.
+# index8 = Exemplo de switch case.
 
 # index9 = Estrutura de repetição while e for.
 
 # index10 = Exemplo de Callback, chamar uma função dentro de outra função.
+<<<<<<< HEAD
 
 # index11 = Exemplo de Callback, com função anônima.
+=======
+>>>>>>> ad9dd99be5b60628e0b54bb59f4ac22ad9bf1eff
